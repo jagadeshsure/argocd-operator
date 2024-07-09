@@ -24,3 +24,4 @@ The Argo CD Operator is released under the Apache 2.0 license. See the [LICENSE]
 
 [docs]:https://argocd-operator.readthedocs.io
 [license_file]:./LICENSE
+
